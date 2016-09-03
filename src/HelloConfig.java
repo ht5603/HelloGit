@@ -1,7 +1,5 @@
 
 public class HelloConfig {
-<<<<<<< HEAD
-=======
 	
 	//develop分支
 	public void delvelopg(){
@@ -18,6 +16,5 @@ public class HelloConfig {
 		System.out.println("feature1 555");
 		System.out.println("feature1 666");
 	}
->>>>>>> b5a43c4... feature 666
 
 }
