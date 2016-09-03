@@ -1,6 +1,5 @@
 
 public class HelloConfig {
-	
 	//develop分支
 	public void delvelopg(){
 		System.out.println("develop brach");
@@ -11,10 +10,10 @@ public class HelloConfig {
 		System.out.println("feature1 111");
 		System.out.println("feature1 222");
 		System.out.println("feature1 333");
-
 		
 		System.out.println("feature1 444");
 		System.out.println("feature1 555");
+		System.out.println("feature1 666");
 	}
 
 }
