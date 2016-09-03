@@ -18,6 +18,11 @@ public class HelloConfig {
 		System.out.println("feature1 777");
 		System.out.println("feature1 888");
 		System.out.println("feature1 999");
+		
+		System.out.println("feature1 AAA");
+		System.out.println("feature1 BBB");
+		
+		
 	}
 
 }
