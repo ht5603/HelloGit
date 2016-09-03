@@ -21,6 +21,7 @@ public class HelloConfig {
 		
 		System.out.println("feature1 AAA");
 		System.out.println("feature1 BBB");
+		System.out.println("feature1 CCC");
 		
 		
 	}
