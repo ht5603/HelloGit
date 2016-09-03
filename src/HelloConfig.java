@@ -5,5 +5,10 @@ public class HelloConfig {
 	public void delvelopg(){
 		System.out.println("develop brach");
 	}
+	
+	//feature1
+	public void feature1(){
+		System.out.println("feature1 111");
+	}
 
 }
