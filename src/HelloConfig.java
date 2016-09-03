@@ -9,6 +9,7 @@ public class HelloConfig {
 	//feature1
 	public void feature1(){
 		System.out.println("feature1 111");
+		System.out.println("feature1 222");
 	}
 
 }
