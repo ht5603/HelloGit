@@ -1,2 +1,0 @@
-# HelloGit
-my git practice~
